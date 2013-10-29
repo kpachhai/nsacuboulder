@@ -119,7 +119,8 @@ h1,h2,h3,h4 {font-family:'Open Sans Condensed',sans-serif; font-weight: normal; 
 /* END Frontpage sections */
 
 
-.heading_supersize {font-size: 100px; text-align:center; font-weight: normal; line-height: 150px; margin:0 0 10px; color: #212121}
+.heading_supersize {font-size: 100px; text-align:center; font-weight: 900; line-height: 100px; margin:0 0 10px; color: #6E6E6E;
+background-image:url('../images/CULogo.png'); background-size:1250px 150px;background-repeat:no-repeat; background-position:50%; }
 .heading_largesize {font-size: 34px; text-align:; font-weight: normal}
 
 .dropcap_red, 
