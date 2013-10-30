@@ -67,32 +67,52 @@
       
 </nav>
 
-      
 <!-- ######################## Header ######################## -->
         
         <header>
-              <h1 class="welcome_text">Photo Gallery</h1>    
+              <h1 class="welcome_text">About Us</h1>    
         </header>
 
+<!-- ######################## About us section ############### -->
+  <tr>
+    <td width="625" height="596" align="center" valign="top"><div align="left">
+  <table width="615" border="0" align="center" cellpadding="0" cellspacing="5">
+    <tr>
+      <td colspan="3" align="left" valign="top"><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Nepalese Student Association was started in the Spring  of 2005 as a way to bring the Nepali community at CU-Boulder together. Before  the inauguration of the group, few Nepali students were actually well  acquainted with each other. The founders decided it was time to establish a  better friendship and cooperation between the Nepali community present at CU.  The original group comprised of three students. They researched the CU database  and found the names of all the Nepali students at CU-Boulder at the time. Then,  they contacted all of them and explained their intentions to these students.  Most people either ignored the idea or ridiculed it. Despite all the negative  response, the student group was established. <br />
+          <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Over the  next three years, the group gained success in every step. NSA participated in  many events at CU-Boulder and with success came approval from the Nepali  community. Presently, NSA boasts a population of more than 30 students.</td>
+    </tr>
+    <tr>
+      <td colspan="3" align="left" valign="top"><p><strong><br />
+        Our Mission: </strong> </p>
+        <ol>
+          <li>To establish a better relationship and cooperation among the Nepali students at the University of Colorado at Boulder.</li>
+          <li>To promote understanding, friendship, integrity, and cooperation among students, faculty members, and the surrounding communities.</li>
+          <li>To extend all possible help and cooperation to all Nepali students at the University of Colorado at Boulder in such cases as may be deemed necessary by all the members of the executive committee.</li>
+          <li>NSA is a non-profit, non-political, and a non-religious student organization formed by the Nepali students at the University of Colorado at Boulder, who will work to promote diversity, bring awareness, and lend a helping hand to the needs of Nepal.<br />
+          </li>
+      </ol></td>
+    </tr>
 
-<!-- ######################## Gallery Section ######################## -->
+
+<!-- ######################## Section ######################## -->
       
       <section class="section_light">
-      
+            
+
       <div class="row">
-        
-		<div id="container">
-        
-			<!-- photo -->
-			<div class='box photo col2'>
-				<a href="images/Galleries/Photos/DJNight2013/index.html"><img src='images/Galleries/Photos/DJNight2013/thumb2.jpg' alt="desc" /></a>
-                <p style="text-align:center"><a href="images/Galleries/Photos/DJNight2013/index.html" class="button small radius">DJ Night 2013 &raquo;</a></p>
-			</div>
+        <div class="six columns">
+          <h3>Information:</h3>
 
-		</div> <!-- end Masonry container -->
+          <p><strong>Nepalese Student Association</strong></p>
 
+          <p>E-mail: nsa@colorado.edu</p><!-- // MAILCHIMP SUBSCRIBE CODE \\ -->
+
+          <p><strong>Weekly meeting: Friday 5:00 pm - 6:00 pm</strong><br />
+          <em>We will have our weekly meeting every friday at the 
+UMC. The room number might change so we'll post the room number a day before our meeting.</em></p>
+          
        </div>
-
        </section>
         
 		<!-- end section -->
