@@ -30,9 +30,7 @@
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
 
-
-
-<!-- Start Slider HEAD section -->
+<!-- Start Slider Head section -->
 	<link rel="stylesheet" type="text/css" href="engine1//style.css" media="screen" />
 	<script type="text/javascript" src="engine1//jquery.js"></script>
 <!-- End Slider HEAD section -->
@@ -78,13 +76,12 @@
 <!-- ######################## Header ######################## -->
         
         <header>
-              <h1 class="welcome_text">DJ Night 2013 - Himalayas Restaurant</h1>    
+              <h1 class="welcome_text">BBQ 2013 - FairView Park</h1>    
         </header>
 
 <!-- ######################## Gallery Section ######################## -->
 
-
-<!-- Start Slider -->
+<!-- Start slider -->
 	<div id="wowslider-container1">
 	<div class="ws_images"><ul>
 <li><img src="data1/images/photo1.jpg" alt="photo1" title="photo1" id="wows1_0"/></li>
@@ -158,10 +155,8 @@
 <li><img src="data1/images/photo71.jpg" alt="photo71" title="photo71" id="wows1_68"/></li>
 <li><img src="data1/images/photo72.jpg" alt="photo72" title="photo72" id="wows1_69"/></li>
 <li><img src="data1/images/photo73.jpg" alt="photo73" title="photo73" id="wows1_70"/></li>
-<li><img src="data1/images/photo74.jpg" alt="photo74" title="photo74" id="wows1_71"/></li>
-<li><img src="data1/images/photo75.jpg" alt="photo75" title="photo75" id="wows1_72"/></li>
-<li><img src="data1/images/photo8.jpg" alt="photo8" title="photo8" id="wows1_73"/></li>
-<li><img src="data1/images/photo9.jpg" alt="photo9" title="photo9" id="wows1_74"/></li>
+<li><img src="data1/images/photo8.jpg" alt="photo8" title="photo8" id="wows1_71"/></li>
+<li><img src="data1/images/photo9.jpg" alt="photo9" title="photo9" id="wows1_72"/></li>
 </ul></div>
 <div class="ws_bullets"><div>
 <a href="#" title="photo1"><img src="data1/tooltips/photo1.jpg" alt="photo1"/>1</a>
@@ -235,24 +230,25 @@
 <a href="#" title="photo71"><img src="data1/tooltips/photo71.jpg" alt="photo71"/>69</a>
 <a href="#" title="photo72"><img src="data1/tooltips/photo72.jpg" alt="photo72"/>70</a>
 <a href="#" title="photo73"><img src="data1/tooltips/photo73.jpg" alt="photo73"/>71</a>
-<a href="#" title="photo74"><img src="data1/tooltips/photo74.jpg" alt="photo74"/>72</a>
-<a href="#" title="photo75"><img src="data1/tooltips/photo75.jpg" alt="photo75"/>73</a>
-<a href="#" title="photo8"><img src="data1/tooltips/photo8.jpg" alt="photo8"/>74</a>
-<a href="#" title="photo9"><img src="data1/tooltips/photo9.jpg" alt="photo9"/>75</a>
+<a href="#" title="photo8"><img src="data1/tooltips/photo8.jpg" alt="photo8"/>72</a>
+<a href="#" title="photo9"><img src="data1/tooltips/photo9.jpg" alt="photo9"/>73</a>
 </div></div>
+<span class="wsl"><a href="http://wowslider.com">Gallery Javascript</a> by WOWSlider.com v4.8</span>
+	<a href="#" class="ws_frame"></a>
 	<div class="ws_shadow"></div>
 	</div>
 	<script type="text/javascript" src="engine1//wowslider.js"></script>
 	<script type="text/javascript" src="engine1//script.js"></script>
-<!-- End Slider -->
+<!-- End slider -->
 
 
 
 <!-- ######################## Footer ######################## -->  
-      
+
 <footer>
 
       <div class="row">
+
 <div class="twelve columns footer">
               <a href="https://twitter.com/NSA_UCB" class="lsf-icon" style="font-size:16px; margin-right:15px" title="twitter">Twitter</a> 
               <a href="https://www.facebook.com/nsaucb" class="lsf-icon" style="font-size:16px; margin-right:15px" title="facebook">Facebook</a>
@@ -262,6 +258,7 @@
       </div>
 
 </footer>		  
+	  
 
 <!-- ######################## Scripts ######################## --> 
 
