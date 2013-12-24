@@ -26,8 +26,8 @@
    Page Name 2
 ----------------------------------------- */
 .circle_img {
-	border-radius: 50%;
-	height: 200px;
+	/*border-radius: 50%;*/
+	height: 225px;
 	width: 200px;
 }
 
